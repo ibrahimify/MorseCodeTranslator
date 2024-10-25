@@ -1,0 +1,16 @@
+Letter x is 1 time(s)
+morse converted to text
+
+DOT COUNT(s) : 21
+DASH COUNT(s) : 24
+
+Letter c is 1 time(s)
+Letter d is 1 time(s)
+Letter e is 4 time(s)
+Letter m is 1 time(s)
+Letter n is 1 time(s)
+Letter o is 3 time(s)
+Letter r is 2 time(s)
+Letter s is 1 time(s)
+Letter t is 4 time(s)
+Letter v is 1 time(s)
