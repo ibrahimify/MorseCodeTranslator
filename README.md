@@ -58,8 +58,18 @@ The program generates a `.txt` file for the statistics.
 
 
 ## Screenshots
-![Menu Page](screenshots/menu.png)
-![Text-to-Morse Conversion](screenshots/text-to-morse.png)
-![Morse-to-Text Conversion](screenshots/morse-to-text.png)
-![Exit Menu](screenshots/exit.png)
-![Statistics File](screenshots/statistics.png)
+
+1. **Menu Page**  
+   ![Menu Page](screenshots/menu.png)
+
+2. **Text-to-Morse Conversion**  
+   ![Text-to-Morse Conversion](screenshots/text-to-morse.png)
+
+3. **Morse-to-Text Conversion**  
+   ![Morse-to-Text Conversion](screenshots/morse-to-text.png)
+
+4. **Exit Menu**  
+   ![Exit Menu](screenshots/exit.png)
+
+5. **Statistics File**  
+   ![Statistics File](screenshots/statistics.png)
