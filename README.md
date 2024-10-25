@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MORSE CODE TRANSLATOR
 
 ## About
@@ -73,3 +74,7 @@ The program generates a `.txt` file for the statistics.
 
 5. **Statistics File**  
    ![Statistics File](screenshots/statistics.png)
+=======
+# MorseCodeTranslator
+A command-line program for translating text to Morse code and vice versa.
+>>>>>>> 93074ebf8a485d823187819f7f87e8b5d6109dd6
